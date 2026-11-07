@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>استديو صور التأتأة</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="hero">
+    <h1>استديو صور التأتأة</h1>
+    <p>صور توعوية تساعدنا على فهم التأتأة</p>
+  </header>
+
+  <nav>
+    <a href="Ghala1.html">الرئيسية</a>
+    <a href="Ghala2.html">استديو الصور</a>
+    <a href="Ghala3.html">تواصل معي</a>
+  </nav>
+
+  <main class="container">
+
+    <section class="card">
+      <h2>معرض الصور</h2>
+
+      <div class="gallery">
+
+        <img src="/IMG_9313.jpeg"
+        alt="صورة عن التأتأة">
+
+        <img src="/IMG_9314.jpeg"
+        alt="صورة عن التأتأة">
+
+      </div>
+    </section>
+
+    <section class="card center">
+      <h2>هل تريد معرفة المزيد؟</h2>
+
+      <p>
+        شاهد هذا الفيديو للتعرف أكثر على التأتأة.
+      </p>
+
+      <a class="btn"
+      href="https://youtu.be/1avK9lmVBs0?si=f2O8IopRCfPt3ON5"
+      target="_blank">
+        مشاهدة الفيديو
+      </a>
+
+    </section>
+
+    <div class="center">
+      <a class="btn" href="Ghala3.html">
+        انتقل إلى صفحة التواصل ←
+      </a>
+    </div>
+
+  </main>
+
+</body>
+</html>
